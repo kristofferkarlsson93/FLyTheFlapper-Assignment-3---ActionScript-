@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e1fa0311cd639c8ff610a12cdd893db8:97c2d20f98d87fdde053f887d4dda05a:cde709370900f12288f3449eded86f07$ -->
+<TextureAtlas imagePath="atlas.png" width="889" height="648">
+    <SubTexture name="background" x="0" y="148" width="889" height="500"/>
+    <SubTexture name="block1" x="503" y="0" width="99" height="99"/>
+    <SubTexture name="block2" x="438" y="0" width="65" height="67"/>
+    <SubTexture name="block3" x="250" y="0" width="62" height="148"/>
+    <SubTexture name="obstacle" x="32" y="0" width="44" height="43"/>
+    <SubTexture name="player1" x="76" y="0" width="53" height="57"/>
+    <SubTexture name="player2" x="129" y="0" width="60" height="56"/>
+    <SubTexture name="player3" x="375" y="0" width="63" height="57"/>
+    <SubTexture name="player4" x="313" y="0" width="63" height="56"/>
+    <SubTexture name="player5" x="189" y="0" width="61" height="61"/>
+    <SubTexture name="texture" x="0" y="0" width="32" height="32"/>
+</TextureAtlas>
